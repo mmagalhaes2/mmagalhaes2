@@ -9,4 +9,4 @@
 
 - 💬 Ask me about **Typescript and Harry Potter**
 
-- 📫 How to reach me **contact@mathmagalhaes.com**
+- 📫 How to reach me **contato@mathmagalhaes.com**
