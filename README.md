@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python, Blockchain and Artificial Intelligence**
 
-- 👯 I’m looking to collaborate on the PT-BR Translation of the Python Documentation
-
 - 💬 Ask me about **Typescript and Harry Potter**
 
 - 📫 How to reach me **contato@mathmagalhaes.com**
