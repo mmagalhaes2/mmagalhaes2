@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working at [F1rst / Santander](https://www.f1rst.com.br/first/#we-are-f1rst)
 
-- 🌱 I’m currently learning **Python, Flutter, Blockchain and Artificial Intelligence**
+- 🌱 I’m currently learning **Blockchain and Artificial Intelligence**
 
-- 💬 Ask me about **Typescript and Harry Potter**
+- 💬 Ask me about **Typescript, Java and Harry Potter**
 
 - 📫 How to reach me **contato@mathmagalhaes.com**
